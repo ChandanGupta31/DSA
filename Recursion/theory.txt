@@ -1,0 +1,6 @@
+What is recursion => When a function calls itself again and again until a specified(terminating) condition is met.
+
+If the condition does not meet then the function keep calling itself and it can lead to out of memory(stack overflow error).
+
+Time Complexity -> O(n) -> n is the no of time function is being call
+Space Complexity -> O(n) -> using stack internally
