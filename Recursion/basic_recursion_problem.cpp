@@ -91,3 +91,34 @@ using namespace std;
 //     printReverseBacktracking(1, n);
 //     return 0;
 // }
+
+
+
+
+
+// Q6. Print the sum of first N numbers
+// int sum(int n){
+//     if(n==0)    return 0;
+//     return n+sum(n-1);
+// }
+
+// int main(){
+//     int n;
+//     cin >> n;
+//     cout << sum(n) << endl;
+//     return 0;
+// }
+
+
+// Q7. Find the factorial of N
+// int fact(int n){
+//     if(n==1)    return 1; 
+//     return n*fact(n-1);
+// }
+
+// int main(){
+//     int n;
+//     cin>>n;
+//     cout << fact(n) << endl;
+//     return 0;
+// }
