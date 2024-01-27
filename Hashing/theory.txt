@@ -1,0 +1,11 @@
+What is hashing =>  Hashing is something like pre-storing and fetching data.
+
+E.g. Given an array and told to find the occurrence of each number so doing loop for each element take much time. That where hashing comes in the concept.
+By hashing we can store the frequency of each element and whenever it needs we just fetch it.
+
+=> If the size or value is greater than 1e+6 then use map or unordered map. Always prefer to use unordered map if it fails then use map.
+
+=> When we use map it will take log n in storing and fetching data in all cases ( best, average, worst).
+=> When we use unordered map it will take O(1) in best and average but in some cases it will take O(n) where n is the no of element in unordered map, this happens because of internal collision.
+
+ 
