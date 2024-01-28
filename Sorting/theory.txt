@@ -1,0 +1,2 @@
+Selection Sort => In selection sort we find the minimum of the element and swap with the starting element and so on.
+Time Complexity => O(n2).
