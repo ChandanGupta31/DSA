@@ -1,2 +1,8 @@
 Selection Sort => In selection sort we find the minimum of the element and swap with the starting element and so on.
 Time Complexity => O(n2).
+
+Bubble Sort => In bubble sort we just compare the two adjacent element and swap the greater one to the end.
+Time Complexity => O(n2), but the best time Complexity is O(n).
+
+Insertion Sort => In insertion sort it always take an element and place it in its correct position.
+Time Complexity => O(n2).
