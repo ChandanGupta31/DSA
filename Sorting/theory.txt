@@ -1,8 +1,15 @@
-Selection Sort => In selection sort we find the minimum of the element and swap with the starting element and so on.
+Selection Sort => Find the Minimum and swap it.
+In selection sort we find the minimum of the element and swap with the starting element and so on.
 Time Complexity => O(n2).
 
-Bubble Sort => In bubble sort we just compare the two adjacent element and swap the greater one to the end.
+Bubble Sort => Swap the two adjacent element(greater one at the last).
+In bubble sort we just compare the two adjacent element and swap the greater one to the end.
 Time Complexity => O(n2), but the best time Complexity is O(n).
 
-Insertion Sort => In insertion sort it always take an element and place it in its correct position.
+Insertion Sort => Place the element at its right position.
+In insertion sort it always take an element and place it in its correct position.
 Time Complexity => O(n2).
+
+Merge Sort => Algorithm is 'divide and merge'. 
+Divide the given array into 2 half, until  the size of the array is 1 and then start merging them in sorted order.
+Time Complexity => O(n log n).
