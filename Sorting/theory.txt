@@ -13,3 +13,10 @@ Time Complexity => O(n2).
 Merge Sort => Algorithm is 'divide and merge'. 
 Divide the given array into 2 half, until  the size of the array is 1 and then start merging them in sorted order.
 Time Complexity => O(n log n).
+Space Complexity => O(n).
+
+Quick Sort => Divide and Conquer
+Pick a pivot & place it in its correct place in the sorted array. Pivot can be any element in the array.
+Smaller on the left, larger on the right.
+Time Complexity => O(n log n).
+Space Complexity => O(1).
