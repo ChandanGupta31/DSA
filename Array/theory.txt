@@ -1,0 +1,9 @@
+What is Array => Array is a data structure which contain similar element.
+Syntax => int arr[5];
+
+When we declare array in main => default it will contain garbage value. And its max size will be 10 to the power 6.
+when we declare array globally => default it will contain 0 at all its position. and its max size will be 10 to the power 7.
+
+We access the element of array using the index. The index ranges from 0 to n-1, where n is the size of the array.
+It took continuous memory location.
+
