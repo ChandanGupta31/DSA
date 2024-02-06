@@ -58,8 +58,9 @@ int optimalCode(vector<int> arr, int n){
         if (count==0)
         {
             element=arr[i];
+            count++;
         }
-        if (arr[i]==element)
+        else if (arr[i]==element)
         {
             count++;
         }
