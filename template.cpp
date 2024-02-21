@@ -21,8 +21,8 @@ void betterCode(vector<int> &arr, int n){
 
 
 
-// Time Complexity = O()
-// Space Complexity = O()
+// Time Complexity = O(n)
+// Space Complexity = O(1)
 void optimalCode(vector<int> &arr, int n){
 
 }
