@@ -57,8 +57,8 @@ vector<int> betterCode(vector<int> &arr, int n){
 
 
 
-// Time Complexity = O()
-// Space Complexity = O()
+// Time Complexity = O(n)
+// Space Complexity = O(1)
 vector<int> optimalCode(vector<int> &arr, int n){
     vector<int> ans;
     int counter1 = 0, counter2 = 0;
