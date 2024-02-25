@@ -1,0 +1,17 @@
+Type of Graph -> Directed and Undirected.
+In Directed graph all the edges are Directed.
+
+Nodes/Vertex -> Represented by number
+Edge -> branch between two nodes.
+
+Cycles in a Graph-> Start from a node and end at that node
+Path -> Contain a lot of vertices and each of them are reachable
+     -> A node can not appear twice in a path.
+Degree in Graph -> total no of edges coming or going in/from that node.
+
+Total Degree of a graph  = 2*no of the edges
+
+Directed Graph -> Indegree(node) -> no of incoming edges.
+               -> Outdegree(node) -> no of outgoing edges.
+
+Edge Weight -> if the weight is not assign we took unit weight.
