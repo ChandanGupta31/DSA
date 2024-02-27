@@ -1,0 +1,11 @@
+DP - Those who cannot remember the past are condemned to repeat it.
+
+Method of DP
+1> Tabulation -> Bottom Up DP
+2> Memoization -> Top Down DP
+
+To solve the overlapping sub-problems then use memoization.
+Memoization -> Tend to store the value of sub-problems in some map or table.
+
+
+
