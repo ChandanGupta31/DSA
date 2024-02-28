@@ -7,5 +7,7 @@ Method of DP
 To solve the overlapping sub-problems then use memoization.
 Memoization -> Tend to store the value of sub-problems in some map or table.
 
-
-
+How to know the the given problem is of DP
+-> Count the total no of ways
+-> Find the minimum output or maximum output.
+-> Whenever the concept of all possible way comes up.
